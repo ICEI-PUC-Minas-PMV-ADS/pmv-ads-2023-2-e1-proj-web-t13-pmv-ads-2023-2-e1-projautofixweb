@@ -20,7 +20,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Orientador
 
-* Nome completo do professor
+*José Wilson Da Costa*
 
 # Documentação
 
