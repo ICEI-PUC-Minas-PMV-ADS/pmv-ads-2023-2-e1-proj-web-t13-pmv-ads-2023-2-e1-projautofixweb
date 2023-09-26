@@ -10,13 +10,13 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-*João Marcos Moraes De Araújo Silva*
+*João Marcos Moraes De Araújo Silva*.
 
-*Ismarlei Magela de Jesus*
+*Ismarlei Magela de Jesus*.
 
-*Pedro Arthur Silva Santos*
+*Pedro Arthur Silva Santos*.
 
-*Gustavo Berto Dias*
+*Gustavo Berto Dias*.
 
 ## Orientador
 
