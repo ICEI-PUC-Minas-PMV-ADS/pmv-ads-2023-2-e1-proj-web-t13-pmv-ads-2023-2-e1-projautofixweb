@@ -1,26 +1,23 @@
-# Título do Projeto
+# Desenvolvimento de um site para otimização em oficinas mecânicas 
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`1º semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Trata-se do desenvolvimento de um site modelo para oficinas mecânicas com a proposta de trazer para o pequeno empreendedor vantagem competitiva no mercado e divulgar seus processos e serviços.
 
 ## Integrantes
 
-*João Marcos Moraes De Araújo Silva*.
-
-*Ismarlei Magela de Jesus*.
-
-*Pedro Arthur Silva Santos*.
-
-*Gustavo Berto Dias*.
+* Gustavo Berto Dias  
+* Ismarlei Magela de Jesus 
+* João Marcos Moraes de Araújo Silva 
+* Pedro Artur Lourenço 
 
 ## Orientador
 
-* José Wilson Da Costa
+* José Wilson da Costa
 
 # Documentação
 
