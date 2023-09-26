@@ -13,7 +13,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 *João Marcos Moraes De Araújo Silva.
 *Ismarlei Magela de Jesus
 *Pedro Arthur Silva Santos
-*Gustavo Berto Dias.
+*Gustavo Berto Dias
 
 ## Orientador
 
