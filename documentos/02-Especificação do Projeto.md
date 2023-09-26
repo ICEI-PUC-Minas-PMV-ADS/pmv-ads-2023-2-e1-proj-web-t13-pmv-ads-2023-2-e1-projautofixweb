@@ -80,5 +80,5 @@
 | RNF-02    |  O sistema deve ser construído de uma maneira que permita acomodar um aumento no volume de dados (como registros de clientes, serviços e peças) sem comprometer o desempenho e a velocidade de acesso.                     | MÉDIA   | 
 | RNF-03    |  A interface do painel de gerenciamento deve ser clara e de fácil compreensão, permitindo que o gerente acesse as funções rapidamente e sem necessidade de treinamento extenso.                      | BAIXA   |
 
-**Prioridade: Alta / Média / Baixa. 
+**Prioridade: Alta / Média / Baixa..
 
