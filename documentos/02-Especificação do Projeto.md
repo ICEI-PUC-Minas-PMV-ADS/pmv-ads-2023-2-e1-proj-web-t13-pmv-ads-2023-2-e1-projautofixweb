@@ -55,8 +55,8 @@
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
 | Proprietário       | eu quero ter acesso a relatórios financeiros detalhados              | para que possa tomar decisões estratégicas informadas e garantir a lucratividade do negócio.                               |
-| Recepcionista      | ...                       | ...                              |
-| Cliente            | ...                       | ...                              |
+| Recepcionista      | acessar uma interface amigável no site.                        | eu possa rapidamente atualizar o status das reservas, realizar check-in/check-out dos clientes e responder a qualquer pergunta ou solicitação deles via chat.                               |
+| Cliente            | visitar o site e facilmente encontrar disponibilidade, preços.                       | eu possa fazer uma reserva com confiança e ainda comunicar-me com a recepção para qualquer esclarecimento.                               |
 ## Requisitos do Projeto
 
 
@@ -65,19 +65,20 @@
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
-
+| RF-01 |  O sistema deve fornecer um painel com gráficos e métricas de desempenho relacionados a serviços realizados, peças em estoque, finanças e satisfação do cliente, permitindo uma visão ampla e detalhada do funcionamento da oficina.                    | ALTA  | 
+| RF-02  | Permitir que o gerente adicione, remova ou altere peças e ferramentas em estoque, além de definir alertas para quando o estoque de determinadas peças estiver abaixo do mínimo desejado.                 | MÉDIA |
+| RF-03  |Possibilidade de adicionar, editar ou remover funcionários, atualizando seus cargos, contatos e outras informações relevantes.                  | BAIXA |
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
+
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+| RNF-01 |  O sistema deve implementar mecanismos avançados de criptografia e autenticação, garantindo que informações sensíveis (como dados financeiros e informações de clientes) estejam protegidas contra acessos não autorizados e possíveis ameaças cibernéticas.                 | ALTA| 
+| RNF-02    |  O sistema deve ser construído de uma maneira que permita acomodar um aumento no volume de dados (como registros de clientes, serviços e peças) sem comprometer o desempenho e a velocidade de acesso.                     | MÉDIA   | 
+| RNF-03    |  A interface do painel de gerenciamento deve ser clara e de fácil compreensão, permitindo que o gerente acesse as funções rapidamente e sem necessidade de treinamento extenso.                      | BAIXA   |
 
 **Prioridade: Alta / Média / Baixa. 
 
