@@ -33,7 +33,21 @@
 </tr>
 </tbody>
 </table>
-
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil Perfil Cliente </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Proprietário do veículo que busca a oficina para manutenção, reparos ou consultas. </td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>Precisa de informações claras sobre os serviços a serem realizados, orçamentos, prazos, garantias e um canal eficiente de comunicação com a oficina para dúvidas e feedbacks.  </td>
+</tr>
+</tbody>
+</table>
 
 ## Histórias de Usuários
 
