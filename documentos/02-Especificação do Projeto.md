@@ -54,9 +54,7 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Proprietário       | eu quero ter acesso a     |
-|                    | relatórios financeiros   |
-|                    |  detalhados              | ...                              |
+| Proprietário       | eu quero ter acesso a relatórios financeiros detalhados              | para que possa tomar decisões estratégicas informadas e garantir a lucratividade do negócio.                               |
 | Recepcionista      | ...                       | ...                              |
 | Cliente            | ...                       | ...                              |
 ## Requisitos do Projeto
