@@ -10,3 +10,4 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 > - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
 > - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
 > - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+![IMG_6232](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-projautofixweb/assets/134164269/f3244654-1912-452f-803c-f86483cf6483)
