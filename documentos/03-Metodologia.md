@@ -53,7 +53,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
+| Documentos do projeto               | GitHub                             | documentos                          |
 | Projeto de Interface                | LucidChart                              | https://lucid.app/lucidspark/ac041088-9607-4794-87ca-e845e1d87673/edit?invitationId=inv_cb41d214-f818-4701-878d-15eeb7b550c7                          |
 | Gerenciamento do Projeto            | Trello                    | https://trello.com/invite/b/CpLF2zk9/ATTI69f42baab75d0ab01647bb97b3b361db4026CA4F/desenvolvimento-autofix                           |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
