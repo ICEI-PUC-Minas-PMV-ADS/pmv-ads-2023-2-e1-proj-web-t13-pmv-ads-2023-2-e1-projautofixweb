@@ -44,6 +44,28 @@ A equipe utilizou como metodologia ágil de gerenciamento de Projeto, a técnica
 </figure> 
 A partir disto, é possível perceber então um pouco do fluxo do projeto, naas imagens a seguir:
 
+
+<figure> 
+    <figcaption>Figura 1</figcaption>
+</figure> Início do desenvolvimento do Projeto
+
+![Captura de tela 2023-10-01 174131](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-projautofixweb/assets/114092147/07aa2c9c-1a77-4be5-8e28-211f08104886)
+
+
+<figure> 
+    <figcaption>Figura 2</figcaption>
+</figure> Intermédio do desenvolvimento do Projeto
+
+![Captura de tela 2023-10-01 174534](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-projautofixweb/assets/114092147/69970d82-8b1b-4536-859a-ac9db51c808d)
+
+
+<figure> 
+    <figcaption>Figura 3</figcaption>
+</figure> Finalização do Projeto
+
+![Captura de tela 2023-10-01 174723](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-projautofixweb/assets/114092147/1241a56b-32b9-45a9-9222-d7e0c4fb829b)
+
+
 ### Ferramentas
 Para o desenvolvimento do projeto, foi essencial a utilização de softwares. Estes softwares por sua vez permitiram a implementação do projeto nas respectivas linguagens HTML5,CSS3,BOOTSTRAP5, utilizando o Visual Code da Microsoft, já para o projeto de interface e fluxos dos wireframes, a ferramenta de diagrama Lucidchart(online) foi essencial. E por fim para a metodologia ágil, foi utilizada a ferramenta Trello (online)
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue:
