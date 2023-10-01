@@ -45,10 +45,8 @@ A equipe utilizou como metodologia ágil de gerenciamento de Projeto, a técnica
 A partir disto, é possível perceber então um pouco do fluxo do projeto, naas imagens a seguir:
 
 ### Ferramentas
-
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
-
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+Para o desenvolvimento do projeto, foi essencial a utilização de softwares. Estes softwares por sua vez permitiram a implementação do projeto nas respectivas linguagens HTML5,CSS3,BOOTSTRAP5, utilizando o Visual Code da Microsoft, já para o projeto de interface e fluxos dos wireframes, a ferramenta de diagrama Lucidchart(online) foi essencial. E por fim para a metodologia ágil, foi utilizada a ferramenta Trello (online)
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue:
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
