@@ -12,7 +12,7 @@ Para auxiliar o microempreendedor a enxergar melhores oportunidades e possibilid
 
 Oficinas mecânicas, assim como diversos negócios em variados setores, enfrentam desafios ao integrar e maximizar o uso de softwares de tecnologia da informação. Segundo a Proeminente Informática (2023), a transformação digital nas oficinas pode ser uma ferramenta valiosa, impactando positivamente em áreas chave, tais como: 
 
-*Má Reputação: Alguns mecânicos são conhecidos por aproveitar clientes que não têm conhecimento técnico, levando a cobranças excessivas ou reparos desnecessários. 
+-Má Reputação: Alguns mecânicos são conhecidos por aproveitar clientes que não têm conhecimento técnico, levando a cobranças excessivas ou reparos desnecessários. 
 
 *Atualizações Tecnológicas: Com a rápida evolução da tecnologia automotiva, fica difícil para algumas oficinas manterem-se atualizadas com as ferramentas, equipamentos e treinamentos necessários. 
 
