@@ -53,7 +53,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | documentos                          |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-projautofixweb/tree/d37e6f996200d13a46f1616a1795280390c61a41/documentos                       |
 | Projeto de Interface                | LucidChart                              | https://lucid.app/lucidspark/ac041088-9607-4794-87ca-e845e1d87673/edit?invitationId=inv_cb41d214-f818-4701-878d-15eeb7b550c7                          |
 | Gerenciamento do Projeto            | Trello                    | https://trello.com/invite/b/CpLF2zk9/ATTI69f42baab75d0ab01647bb97b3b361db4026CA4F/desenvolvimento-autofix                           |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
