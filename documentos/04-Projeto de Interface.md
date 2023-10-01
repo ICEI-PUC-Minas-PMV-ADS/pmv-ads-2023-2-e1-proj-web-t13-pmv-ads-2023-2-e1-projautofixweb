@@ -3,18 +3,39 @@
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+Fluxos do Site:
+<ul>
+<li>Home (Página Inicial)
 
-[Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
+A porta de entrada para o nosso site, onde você encontra uma visão geral de quem somos e o que fazemos.
+Clique em "Sobre Nós" para aprender mais sobre nossa história e missão.
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
+<li>Sobre Nós
+
+Conheça a jornada da nossa oficina mecânica e a equipe dedicada por trás de cada reparo.
+A partir daqui, você pode querer conhecer os serviços que oferecemos. Clique em "Serviços" para explorar.
+
+
+<li>Serviços
+
+Uma lista detalhada dos serviços que oferecemos, desde trocas de óleo até reparos de motor.
+Para planejar sua visita, é essencial agendar seu horário. Clique em "Agenda" para ver os horários disponíveis.
+
+
+<li>Agenda
+
+Veja a disponibilidade e marque sua visita de acordo com sua conveniência.
+Se tiver alguma dúvida ou preferir um contato direto, clique em "Contato" para se comunicar conosco.
+
+
+<li>Contato
+
+Encontre todas as formas de se comunicar conosco, seja por telefone, e-mail ou visitando-nos pessoalmente.
+Se desejar retornar à página inicial ou explorar outras seções, use o menu de navegação no topo.
+</ul>
 ## Protótipo
-
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).
+Os protótipos são essenciais para melhor clareza e desenvolvimento do projeto. Por isso, foi desenvolvido um de baixa fidelidade para demonstração do projeto juntamente com o seu fluxo.
 
 ### Protótipo de baixa fidelidade
 
