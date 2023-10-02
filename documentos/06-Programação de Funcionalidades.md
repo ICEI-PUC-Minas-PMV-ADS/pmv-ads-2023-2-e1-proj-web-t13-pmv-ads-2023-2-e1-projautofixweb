@@ -1,12 +1,11 @@
 # Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
-
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
-
 ### Título da funcionalidade
 
-[Adicione imagem da funcionalidade/tela]
+Agendamento de Serviços
+![Captura de tela 2023-10-01 232512](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-projautofixweb/assets/114092147/fc545baf-db4a-484a-a071-6703bde7023f)
+Abertura de chamado
+![Captura de tela 2023-10-01 232533](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-pmv-ads-2023-2-e1-projautofixweb/assets/114092147/49796ece-2795-4eb9-9188-a9dbef24b942)
 
 
 #### Requisito atendido
