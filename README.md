@@ -35,7 +35,8 @@ Trata-se do desenvolvimento de um site modelo para oficinas mecânicas com a pro
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* Acesso em:http://autofixweb.great-site.net/autofix/src/index.html
+ 
 
 # Código-Fonte
 
