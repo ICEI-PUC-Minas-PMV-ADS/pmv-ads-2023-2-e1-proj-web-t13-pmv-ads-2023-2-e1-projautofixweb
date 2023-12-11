@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../css/orcamento.css">
+    <title>Autofix</title>
+    <style>
+        textarea {
+          resize: none;
+        }
+      </style>
+</head>
+
+<body>
+
+    <header class="cabeçalho">
+        <div class="cabeçalho-link">
+            <img src="../img/logo.png" width="40%" height="60">
+            <span>Autofix</span>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="home.html">Inicio</a>
+                    </li>
+                    <li>
+                        <a href="sobre.html">Sobre</a>
+                    </li>
+                    <li>
+                        <a href="serviços.html">Serviços</a>
+                    </li>
+                    <li>
+                        <a href="agenda.html">Agenda</a>
+                    </li>
+                    <li>
+                        <a href="contato.html">Contato</a>
+                    </li>
+                    <li>
+                        <a href="orçamento.html">Orçamento</a>
+                    </li>
+                    <li>
+                        <a href="filtro.html">Filtro</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="servico mecanica">
+                    <h3>Troca de Óleo</h3>
+                    <p>Descrição da Troca de Óleo...</p>
+                    <button onclick="solicitarOrcamento('Troca de Óleo')">Solicitar Orçamento</button>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="servico eletrica">
+                    <h3>Revisão Elétrica</h3>
+                    <p>Descrição da Revisão Elétrica...</p>
+                    <button onclick="solicitarOrcamento('Revisão Elétrica')">Solicitar Orçamento</button>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="servico higienizacao">
+                    <h3>Higienização Automotiva</h3>
+                    <p>Descrição da Higienização Automotiva...</p>
+                    <button onclick="solicitarOrcamento('Higienização Automotiva')">Solicitar Orçamento</button>
+                </div>
+            </div>
+        </div>
+        <div class="form-container" style="display: none;">
+            <h2>Formulário de Contato</h2>
+            <form class="contact-form" onsubmit="return enviarFormulario()">
+                <input type="hidden" id="selected-service" name="selected-service">
+                <label for="name">Nome:</label><br>
+                <input type="text" id="name" name="name" autocomplete="name"><br><br>
+                <label for="email">E-mail:</label><br>
+                <input type="email" id="email" name="email" autocomplete="email"><br><br>
+                <label for="phone">Telefone:</label><br>
+                <input type="tel" id="phone" name="phone" autocomplete="tel"><br><br>
+                <label for="reason">Descrição do Problema Apresentado:</label><br>
+                <textarea id="reason" name="reason" rows="4" cols="50"></textarea><br><br>
+                <input type="submit" value="Enviar">
+                <button type="button" onclick="voltar()">Voltar</button>
+                
+                <button type="button" onclick="voltarParaPaginaInicial()">Página Inicial</button>
+            </form>
+        </div>
+        
+            </form>
+        </div>
+    </div>
+
+    </div>
+    </div>
+
+    <script src="orcamento.js"></script>
+</body>
+
+</html>
