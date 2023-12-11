@@ -1,0 +1,370 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Distribui os itens com espaço entre eles */
+  }
+  
+  .col-md-4 {
+    flex: 0 0 calc(50% - 20px); /* Para exibir três itens por linha */
+    margin-bottom: 20px; /* Espaço entre as linhas */
+    padding: 0 10px; /* Espaço horizontal entre os itens */
+    box-sizing: border-box;
+  }
+  
+  .servico {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Estilizando o campo de busca com o ícone de pesquisa */
+.search-container {
+    position: relative;
+  }
+  
+  .search-container input[type="text"] {
+    padding-right: 30px; /* Espaçamento para o ícone de pesquisa */
+  }
+  
+  .search-container button {
+    position: absolute;
+    right: 5px;
+    top: 150%;
+    transform: translateY(-50%);
+    background: #3498db;
+    border: none;
+    cursor: pointer;
+  }
+  
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    
+}
+.service-container {
+    display: flex;
+    flex-wrap: wrap; /* Quebra para a próxima linha se não couber na largura */
+    gap: 20px; /* Espaço entre os itens */
+    list-style: none; /* Remove os marcadores de lista */
+  }
+  
+  .servico {
+    width: 200px; /* Largura fixa para cada serviço */
+    /* Outros estilos, como fundo, margens, bordas, etc. */
+  }
+  
+  .card {
+    /* Estilos para o card */
+  }
+  
+
+
+.background {
+    background-image: url('../img/backgroundIndex.png.jpg');
+    background-size: cover;    /* Faz com que a imagem cubra toda a div */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    height: 80vh; /* Define a altura para a altura total da janela do navegador */
+    width: 100%; /* Define a largura para a largura total do elemento pai */
+}
+
+
+header{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1rem;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    position: fixed;
+    background: transparent;
+    transition: all .35s ease;
+    background-color: #0a0909;
+    padding: 14px 14%;
+}
+
+
+
+.cabeçalho {
+    background-color: #0f0d0d; /* Fundo cinza */
+    padding: 10px 0; /* Padding para dar um pouco de espaço acima e abaixo */
+}
+
+.cabeçalho-link {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    gap: 3rem;
+    padding: 0 15px; /* Padding nas laterais para não encostar no início/final da página */
+}
+
+.logo {
+    width: 30%;
+    height: 30%; /* Mantém as proporções da imagem */
+}
+
+.cabeçalho-link span {
+    font-size: 1.5em; /* Ajuste o tamanho da fonte conforme necessário */
+    font-weight: bold;
+    color: #f6f5f5;
+}
+
+.cabeçalho-link a {
+    color: #f6f5f5;
+    font-weight: 700;
+    transition: 0.3s;
+    background-color: gray;
+}
+
+.cabeçalho-link ul {
+    display: flex;
+    gap: 1rem;
+    list-style-type: none; /* Remove os pontos dos itens da lista */
+    padding: 0; /* Remove o padding padrão */
+    margin: 0; /* Remove a margem padrão */
+}
+
+.cabeçalho-link li {
+    margin: 0; /* Remove margens adicionais */
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #1c1b1b;
+  }
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 1rem 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Isso vai alinhar os itens à direita */
+    gap: 1rem; /* Espaçamento entre colunas */
+    width: 100%;
+    max-width: 1200px; /* Ajuste como desejar */
+    margin: 0 auto; /* Centraliza o container */
+}
+
+.footer-col {
+    flex: 0 0 auto; /* Evita que as colunas cresçam além do necessário */
+}
+
+.spacer {
+    flex: 1; /* Isso fará o espacer tomar todo o espaço disponível, empurrando as colunas para a direita */
+}
+.footer-bottom {
+    text-align: center; /* Centraliza o texto horizontalmente */
+    padding: 15px 0;    /* Adiciona algum espaço acima e abaixo do texto */
+    border-top: 1px solid #ccc; /* Adiciona uma linha acima do texto */
+    font-size: 14px;   /* Ajusta o tamanho da fonte, se necessário */
+    color: #666;       /* Ajusta a cor do texto, se necessário */
+}
+
+
+button {
+    background-color: rgb(8, 8, 8);
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-top: 0.5rem;
+    cursor: pointer;
+    color: rgb(226, 39, 39);
+    transition: background-color 0.3s;
+    width: 100%;
+}
+
+button:hover {
+    background-color: rgb(18, 18, 18);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+
+.background {
+    background-image: url('../img/backgroundIndex.png.jpg');
+    background-size: cover;    /* Faz com que a imagem cubra toda a div */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    height: 80vh; /* Define a altura para a altura total da janela do navegador */
+    width: 100%; /* Define a largura para a largura total do elemento pai */
+}
+
+
+header{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1rem;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    position: fixed;
+    background: transparent;
+    transition: all .35s ease;
+    background-color: #0a0909;
+    padding: 14px 14%;
+}
+
+
+
+.cabeçalho {
+    background-color: #0f0d0d; /* Fundo cinza */
+    padding: 10px 0; /* Padding para dar um pouco de espaço acima e abaixo */
+}
+
+.cabeçalho-link {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    gap: 3rem;
+    padding: 0 15px; /* Padding nas laterais para não encostar no início/final da página */
+}
+
+.logo {
+    width: 30%;
+    height: 30%; /* Mantém as proporções da imagem */
+}
+
+.cabeçalho-link span {
+    font-size: 1.5em; /* Ajuste o tamanho da fonte conforme necessário */
+    font-weight: bold;
+    color: #f6f5f5;
+}
+
+.cabeçalho-link a {
+    color: #f6f5f5;
+    font-weight: 700;
+    transition: 0.3s;
+    background-color: gray;
+}
+
+.cabeçalho-link ul {
+    display: flex;
+    gap: 1rem;
+    list-style-type: none; /* Remove os pontos dos itens da lista */
+    padding: 0; /* Remove o padding padrão */
+    margin: 0; /* Remove a margem padrão */
+}
+
+.cabeçalho-link li {
+    margin: 0; /* Remove margens adicionais */
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #1c1b1b;
+  }
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 1rem 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Isso vai alinhar os itens à direita */
+    gap: 1rem; /* Espaçamento entre colunas */
+    width: 100%;
+    max-width: 1200px; /* Ajuste como desejar */
+    margin: 0 auto; /* Centraliza o container */
+}
+
+.footer-col {
+    flex: 0 0 auto; /* Evita que as colunas cresçam além do necessário */
+}
+
+.spacer {
+    flex: 1; /* Isso fará o espacer tomar todo o espaço disponível, empurrando as colunas para a direita */
+}
+.footer-bottom {
+    text-align: center; /* Centraliza o texto horizontalmente */
+    padding: 15px 0;    /* Adiciona algum espaço acima e abaixo do texto */
+    border-top: 1px solid #ccc; /* Adiciona uma linha acima do texto */
+    font-size: 14px;   /* Ajusta o tamanho da fonte, se necessário */
+    color: #666;       /* Ajusta a cor do texto, se necessário */
+}
+
+
+button {
+    background-color: gray;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-top: 0.5rem;
+    cursor: pointer;
+    color: white;
+    transition: background-color 0.3s;
+    width: 100%;
+}
+
+button:hover {
+    background-color: darkgray;
+}
+
+
+
+
+
